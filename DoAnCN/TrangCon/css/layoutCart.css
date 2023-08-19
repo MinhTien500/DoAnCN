@@ -1,0 +1,275 @@
+.col-md-3.py-3 {
+    width: 15%;
+}
+
+.ThongTinLH {
+    color: white;
+    font-family: time;
+}
+
+.ThongTinLH2 {
+    color: white;
+    font-family: time;
+    margin-left: 20px;
+}
+
+.EmailLH {
+    color: white;
+    font-family: time;
+    margin-left: -75px;
+}
+
+.EmailLH2 {
+    color: white;
+    font-family: time;
+    margin-left: -73px;
+}
+
+.Login {
+    color: white;
+    font-family: time;
+    margin-left: 41px;
+}
+
+img {
+    width: 98px;
+    margin-left: 12%;
+
+}
+
+.container {
+    max-width: 100%;
+}
+
+.col-md-4.py-3 {
+    margin-left: -86px;
+}
+
+input.form-control {
+    margin-left: -88px;
+}
+
+.MainMenu {
+    background-color: #408080;
+    max-width: 100%;
+}
+
+.nav-link {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Header {
+    background: black;
+}
+
+.col-md-3 {
+    color: white;
+    font-family: time;
+    font-size: small;
+}
+
+section.Footer {
+    width: 1532px;
+    margin-left: -12px;
+    background: black;
+}
+
+.rowFooter {
+    margin-left: 124px;
+
+}
+
+.box50 {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 50px;
+    display: inline-block;
+}
+
+span.box50 {
+
+    color: white;
+    margin-left: 2%;
+
+}
+
+
+.w-100 {
+    width: 100% !important;
+    margin-left: 1px;
+}
+
+.IconLogo {
+    width: 135px;
+}
+
+h3.GoiY {
+    color: #f6f4f4;
+    font-family: time;
+    margin-left: 603px;
+    margin-top: 29px;
+    margin-bottom: 29px;
+}
+
+ul.product {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+img.IMGProduct {
+    width: 263px;
+    margin-left: 14%;
+
+
+}
+
+ul.product li {
+    flex-basis: 25%;
+    list-style: none;
+}
+
+.List-Menu {
+    list-style: none;
+
+}
+
+.product-info {
+    margin-left: 51px;
+    margin-top: 9px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(251, 246, 246);
+}
+
+.product-price {
+    margin-bottom: 30px;
+}
+
+.ICONMXH {
+    color: white;
+}
+
+i.fa-brands.fa-facebook-messenger {
+    color: white;
+}
+
+i.fa-brands.fa-twitter {
+    color: white;
+}
+
+i.fa-brands.fa-youtube {
+    color: white;
+}
+
+i.fa-brands.fa-google {
+    color: white;
+}
+
+
+ul.product li a {
+    position: relative;
+    display: block;
+}
+
+.ThemGioHang {
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 254, 254);
+    font-weight: bold;
+    letter-spacing: 2px;
+    bottom: 0px;
+    margin-left: 25%;
+    transition: all 0.3s ease-in-out;
+    opacity: 0;
+}
+
+.product-top:hover .ThemGioHang {
+    bottom: 40%;
+    opacity: 1;
+}
+
+.IconLogo:hover img {
+    transform: scale(1.1);
+    opacity: 0.1;
+    transition: all 0.3s ease-in-out;
+}
+
+.product-top:hover .IMGProduct {
+    transform: scale(1.1);
+    opacity: 0.1;
+    transition: all 0.3s ease-in-out;
+}
+
+.fa-regular {
+    font-weight: 600;
+    font-size: 44px;
+    margin-left: 72px;
+    margin-top: 13px;
+}
+
+.icon-cart {
+    position: absolute;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    letter-spacing: 2px;
+    bottom: 0px;
+    transition: all 0.3s ease-in-out;
+    opacity: 0;
+}
+
+.product-top:hover .icon-cart {
+    bottom: 50%;
+    opacity: 1;
+}
+
+
+i.fa-solid.fa-cart-shopping {
+    position: absolute;
+    left: 283px;
+    bottom: 233px;
+    font-size: 27px;
+}
+
+.row2>* {
+    flex-shrink: 0;
+    width: 16%;
+    max-width: 100%;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    margin-top: var(--bs-gutter-y);
+}
+
+.row2 {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: calc(-.5 * var(--bs-gutter-x));
+    margin-left: calc(-.5 * var(--bs-gutter-x));
+}
+
+span.box50 {
+    color: white;
+
+}
+
+.MXH {
+    margin-left: 84%;
+}
+
+.col-md-5 {
+    flex: 0 0 auto;
+    width: 19.666667%;
+    color: white;
+    opacity: 0.4;
+}
+
+section.MainContent {
+    background: url(../image/test7.jpg);
+}
